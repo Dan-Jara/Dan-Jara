@@ -1,1 +1,1 @@
-
+## Hello, my name is Daniel Jara. I am an industrial engineer with a master's degree in Business analytics and data science. This is my github, where I compile some of the projects that I have worked on during my data science journey. Here I only showcase the projects developed in Python, as it is the language that I use the most. However, I have also worked with other programming languages such as R and SAS. Take a look at my repositories. 
